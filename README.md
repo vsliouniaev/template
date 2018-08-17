@@ -1,2 +1,2 @@
-# sample
-Jet Sample Repository
+# Template
+Jet Template Repository
